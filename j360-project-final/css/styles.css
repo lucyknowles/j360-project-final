@@ -1,0 +1,93 @@
+/* -----  general page  ------*/
+
+#page-wrap{
+ 	width:100%;
+ 	margin:0 auto;
+ 	}
+
+body{
+	
+	font-family: 'Dosis', sans-serif;
+	color: Black;
+	margin:2%;
+	}
+
+
+.head{ 
+	font-size: 50px;
+	}
+
+a{
+color: #4682B4
+}
+
+#container {
+	background: #ffffff;
+	padding: 30px;
+	
+}
+aside {
+	width: 240px;	
+	float: left;
+	color:#4682B4
+}
+aside p {
+	margin-top: 15px;
+	font-size:15px; 
+	color:#4682B4
+	}
+
+/* -----  nav  ------*/
+
+
+	
+nav {
+	height: 30px;  
+	text-transform: uppercase;
+
+}
+
+nav ul li { 
+	float:left;
+	list-style-type: none; 
+	background: #555;
+	text-align: center;
+	background-color:white;
+	vertical-align:top;
+	display: inline-block;
+	width:160px;
+	margin-left:3%;
+	margin-right:3%;
+}
+
+nav ul li a {
+	text-decoration:none;
+	font-size:18px;
+	color: #3366ff; 
+}
+
+nav ul li a:hover {
+	color: #6895ff
+	 
+}
+
+
+/* -----  header  ------*/
+
+header{ 
+	background-color: #ff6600;
+	text-align: center;
+	width:100%
+	}
+	
+	header h1 {
+	color: white;
+	font-size: 14;
+	}
+	
+	header h2{ 
+	background-color:#ffcc00
+;
+	}
+	
+footer{ text-decoration:none}
