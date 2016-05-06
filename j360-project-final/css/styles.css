@@ -16,6 +16,12 @@ font-size: 100%;
  	margin:0 auto;
  	background: #ffffff;
 	padding: 30px;
+	overflow:auto;
+		padding: 10px;
+		Background-image:url("images/apple1.png");
+		Background-repeat:no-repeat;
+		Background-attachment:fixed;
+		Background-position:100% 120%;
 	
  	}
  	
