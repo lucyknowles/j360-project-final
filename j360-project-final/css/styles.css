@@ -4,13 +4,25 @@
  	width:100%;
  	margin:0 auto;
  	}
-
+#container {
+	background: #ffffff;
+	padding: 30px;
+	
+}
 body{
 	
 	font-family: 'Dosis', sans-serif;
 	color: Black;
 	margin:2%;
 	}
+	
+.col1, .col2 {width:40%;
+			float:left;
+			margin:2%;}
+					
+.col2{ 
+margin-right:1%
+padding-left:2%}
 
 
 .head{ 
@@ -21,11 +33,7 @@ a{
 color: #4682B4
 }
 
-#container {
-	background: #ffffff;
-	padding: 30px;
-	
-}
+
 
 /* -----  nav  ------*/
 
